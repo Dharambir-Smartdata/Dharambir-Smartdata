@@ -165,28 +165,23 @@ My primary focus is building production-ready AI systems that combine LLMs, Retr
 ---
 
 ## 📊 GitHub Statistics
----
-<p align="center">
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Dharambir-Smartdata&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    alt="Dharambir's GitHub Stats"
-  />
-</p>
 
 <p align="center">
   <img
     height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Dharambir-Smartdata&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharambir-Smartdata&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Most Used Languages"
+    alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=Dharambir-Smartdata&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
+    alt="GitHub Streak"
   />
 </p>
-
----
